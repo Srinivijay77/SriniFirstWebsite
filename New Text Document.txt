@@ -1,0 +1,18 @@
+<h1> heading max size </h1>
+<h2> mdn, devdocs.io </h2>
+
+<!-- self - closing tags -->
+<br>
+<hr>
+<hr size="3" noshade>
+<!-- emmit html enter gives everything needed
+em for emphasis basically italics
+strong for bold
+p for paragraph
+hr for a horizontal line
+ul is for unordered list i.e bullet points
+li is used inside ul or ol for naming
+ol is ordered list i.e numbered points
+meta charset is a universal defined encoding and decoding of letters
+img is for image src is for source, alt means if image is not loaded what shd be displayed
+height and width are the attributes in img 
